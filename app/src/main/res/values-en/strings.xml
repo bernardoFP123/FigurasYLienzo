@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geometric Shapes</string>
+    <string name="defaultLabel">Default label</string>
+    <string name="circleName">Circle</string>
+    <string name="circleDescription">The shape of a ball</string>
+    <string name="ovalName">Oval</string>
+    <string name="ovalDescription">The shape of an egg</string>
+    <string name="squareName">Square</string>
+    <string name="squreDescription">Four equal sides</string>
+    <string name="rectangleName">Rectangle</string>
+    <string name="rectangleDescription">Two long sides, two short sides</string>
+    <string name="freeFigureName">Free drawing</string>
+    <string name="freeFigureDescription">Draw some shapes freely</string>
+    <string name="squareMessage">Click for drawing squares</string>
+    <string name="rectangleMessage">Click for drawing rectangles</string>
+    <string name="ovalMessage">Click for drawing ovals</string>
+    <string name="circleMessage">Click for drawing circles</string>
+    <string name="freeFigureMessage">Draw freely</string>
+</resources>

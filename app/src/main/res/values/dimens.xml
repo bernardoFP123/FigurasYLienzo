@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="figureOptionHeight">50dp</dimen>
+    <dimen name = "circleDiamenter">60dp</dimen>
+    <dimen name="ovalLongDiameter">60dp</dimen>
+    <dimen name="ovalShortDiameter">30dp</dimen>
+    <dimen name="squareHeight">50dp</dimen>
+    <dimen name="rectangleHeight">30dp</dimen>
+    <dimen name="figureStrokeWidth">2dp</dimen>
+
+
+</resources>

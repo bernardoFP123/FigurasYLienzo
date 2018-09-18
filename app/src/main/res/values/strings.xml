@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Figuras Geométricas</string>
+    <string name="defaultLabel">Etiqueta por defecto</string>
+    <string name="circleName">Círculo</string>
+    <string name="circleDescription">Es la forma de una pelota</string>
+    <string name="ovalName">Óvalo</string>
+    <string name="ovalDescription">Es la forma de un huevo</string>
+    <string name="squareName">Cuadrado</string>
+    <string name="squreDescription">Cuatro lados iguales</string>
+    <string name="rectangleName">Rectángulo</string>
+    <string name="rectangleDescription">Dos lados largos, dos lados cortos</string>
+    <string name="freeFigureName">Dibujo Libre</string>
+    <string name="freeFigureDescription">Dibuja algunas figuras líbremente</string>
+    <string name="squareMessage">Haz click para dibujar cuadrados</string>
+    <string name="rectangleMessage">Haz click para dibujar  rectángulos</string>
+    <string name="ovalMessage">Haz click para dibujar  óvalos</string>
+    <string name="circleMessage">Haz click para dibujar círculos</string>
+    <string name="freeFigureMessage">Dibuja libremente</string>
+
+</resources>
